@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NvSource>
+<!-- WTR3925_3DLCA_APAC11_3100V2_LTE_B5_RX2.xml -->
+	<NvItem id="25171" name="RFNV_LTE_B5_C2_LNA_RANGE_RISE_FALL_I" mapping="direct" encoding="dec">-740,-780,-600,-640,-400,-440,-280,-320,-200,-240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</NvItem>
+    <NvItem id="25172" name="RFNV_LTE_B5_C3_LNA_RANGE_RISE_FALL_I" mapping="direct" encoding="dec">-740,-780,-600,-640,-400,-440,-280,-320,-200,-240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</NvItem>
+    <NvItem id="25177" name="RFNV_LTE_B8_C2_LNA_RANGE_RISE_FALL_I" mapping="direct" encoding="dec">-740,-780,-600,-640,-400,-440,-280,-320,-200,-240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</NvItem>
+    <NvItem id="25178" name="RFNV_LTE_B8_C3_LNA_RANGE_RISE_FALL_I" mapping="direct" encoding="dec">-740,-780,-600,-640,-400,-440,-280,-320,-200,-240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</NvItem>
+    <NvItem id="25337" name="RFNV_LTE_B20_C2_LNA_RANGE_RISE_FALL_I" mapping="direct" encoding="dec">-740,-780,-600,-640,-400,-440,-280,-320,-200,-240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</NvItem>
+    <NvItem id="25338" name="RFNV_LTE_B20_C3_LNA_RANGE_RISE_FALL_I" mapping="direct" encoding="dec">-740,-780,-600,-640,-400,-440,-280,-320,-200,-240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</NvItem>
+</NvSource>
